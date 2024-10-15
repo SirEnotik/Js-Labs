@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Weather Info Extension",
+  "version": "1.0",
+  "description": "Chrome Extension to display current weather information.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "geolocation"
+  ]
+}
