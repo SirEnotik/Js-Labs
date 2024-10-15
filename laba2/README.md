@@ -1,5 +1,6 @@
-# test doc
-test text
+# Laba 2
+#### [Back to navigation](https://github.com/SirEnotik/Js-Labs)
+## Weather extention
 
 ![Image](./images_doc/img1.jpeg)
 asdasda
